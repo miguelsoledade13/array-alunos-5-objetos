@@ -97,5 +97,5 @@ ________________________________________________________________________________
 
 <img width="200" height="200" alt="Tag1GIF" src="https://github.com/user-attachments/assets/7e4fdca8-f108-4488-85ce-a72d7b7f8f53" />
 
-<img width="100" height="100" alt="TungTungTungSahur67GIF" src="https://github.com/user-attachments/assets/7269b7cf-a23f-490c-b2bb-a33148868158" />
+<img width="300" height="300" alt="TungTungTungSahur67GIF" src="https://github.com/user-attachments/assets/7269b7cf-a23f-490c-b2bb-a33148868158" />
 
